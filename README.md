@@ -12,6 +12,8 @@ This repository contains examples for working with [MyST Markdown][myst-link] in
 
 - JupyterLab >= 3.0
 
+> **Note**: This repository is based on a [binder-example](https://github.com/binder-examples/requirements)
+
 ## Install
 
 To install `myst` locally, execute:
