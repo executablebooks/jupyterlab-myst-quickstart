@@ -22,7 +22,7 @@ To install `myst` locally, execute:
 npm install -g myst-cli
 ```
 
-> **Note**: See [myst-tools.org for install instructions][https://myst-tools.org/docs/mystjs/quickstart]
+> **Note**: See [myst-tools.org for install instructions](https://myst-tools.org/docs/mystjs/quickstart)
 
 To install the JupyterLab extension locally, execute:
 
