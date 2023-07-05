@@ -1,0 +1,23 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: JupyterLab MyST Quickstart
+  description: Quickly get up and running with MyST Markdown in JupyterLab using the extension.
+  keywords:
+      - MyST Markdown
+      - Quickstart Tutorial
+  authors:
+      - name: Rowan Cockett
+        affiliation: Executable Books; Curvenote
+        orcid: 0000-0002-7859-8394
+  github: https://github.com/executablebooks/jupyterlab-myst-quickstart
+  # bibliography: []
+site:
+  template: book-theme
+  title: JupyterLab MyST Quickstart
+  logo_text: JupyterLab MyST
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains: []
