@@ -10,7 +10,7 @@ This repository contains examples for working with [MyST Markdown][myst-link] in
 
 ## Requirements
 
-- JupyterLab >= 3.0
+- JupyterLab >= 4.0
 
 > **Note**: This repository is based on a [binder-example](https://github.com/binder-examples/requirements)
 
@@ -19,7 +19,7 @@ This repository contains examples for working with [MyST Markdown][myst-link] in
 To install `myst` locally, execute:
 
 ```bash
-npm install -g myst-cli
+npm install -g mystmd
 ```
 
 > **Note**: See [myst-tools.org for install instructions](https://myst-tools.org/docs/mystjs/quickstart)
